@@ -1,0 +1,11 @@
+{
+  "id": "20260724_10843",
+  "title": "大众把 GrapheneOS 用户踢出了车钥匙：车企 attestation 第一次撕破脸",
+  "link": "https://osp.io/archives/10843",
+  "date": "2026-07-24T08:04:33",
+  "audio_file": "episode_20260724_10843.mp3",
+  "file_size_kb": 3283,
+  "num_segments": 13,
+  "has_intro_outro": false,
+  "script": "{\n\"podcast_transcripts\": [\n  {\n    \"speaker_id\": 0,\n    \"dialog\": \"Hey everyone, welcome back! So, I just read this wild story that basically ruined my day. It turns out that whether you can actually 'use' the car you bought is now completely up to the car manufacturer. Like, seriously?\"\n  },\n  {\n    \"speaker_id\": 1,\n    \"dialog\": \"Oh, it gets worse. Around July 22nd, a German tech site called heise.de exposed that Volkswagen’s official app is straight-up blocking people who use privacy-focused operating systems like GrapheneOS or /e/OS. You know, the ones that strip out Google tracking?\"\n  },\n  {\n    \"speaker_id\": 0,\n    \"dialog\": \"Wait, so if I buy a VW, and I just want to lock my phone down for better security, the car app says no? What’s the excuse they’re giving? 'Your car feels unsafe'?\"\n  },\n  {\n    \"speaker_id\": 1,\n    \"dialog\": \"It’s actually quite technical. They claim 'hardware-level attestation' didn’t pass. Basically, the app checks in the background to see if your phone i"
+}
