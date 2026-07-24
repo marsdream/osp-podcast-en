@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source Pulse (English)</title>
+    <link>https://podcast-en.herebuy.us/</link>
+    <description>Your English podcast about open source, tech, and developer tools. Powered by AI.</description>
+    <language>en</language>
+    <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    <itunes:category text="Technology"/>
+    <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title><![CDATA[大众把 GrapheneOS 用户踢出了车钥匙：车企 attestation 第一次撕破脸]]></title>
+      <link>https://osp.io/archives/10843</link>
+      <description><![CDATA[大众把 GrapheneOS 用户踢出了车钥匙：车企 attestation 第一次撕破脸]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20260724_10843.mp3" type="audio/mpeg" length="3361792"/>
+      <pubDate>Fri, 24 Jul 2026 08:04:33 GMT</pubDate>
+      <guid isPermaLink="false">20260724_10843</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+  </channel>
+</rss>
