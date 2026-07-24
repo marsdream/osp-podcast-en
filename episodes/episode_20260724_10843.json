@@ -4,8 +4,8 @@
   "link": "https://osp.io/archives/10843",
   "date": "2026-07-24T08:04:33",
   "audio_file": "episode_20260724_10843.mp3",
-  "file_size_kb": 3283,
-  "num_segments": 13,
-  "has_intro_outro": false,
-  "script": "{\n\"podcast_transcripts\": [\n  {\n    \"speaker_id\": 0,\n    \"dialog\": \"Hey everyone, welcome back! So, I just read this wild story that basically ruined my day. It turns out that whether you can actually 'use' the car you bought is now completely up to the car manufacturer. Like, seriously?\"\n  },\n  {\n    \"speaker_id\": 1,\n    \"dialog\": \"Oh, it gets worse. Around July 22nd, a German tech site called heise.de exposed that Volkswagen’s official app is straight-up blocking people who use privacy-focused operating systems like GrapheneOS or /e/OS. You know, the ones that strip out Google tracking?\"\n  },\n  {\n    \"speaker_id\": 0,\n    \"dialog\": \"Wait, so if I buy a VW, and I just want to lock my phone down for better security, the car app says no? What’s the excuse they’re giving? 'Your car feels unsafe'?\"\n  },\n  {\n    \"speaker_id\": 1,\n    \"dialog\": \"It’s actually quite technical. They claim 'hardware-level attestation' didn’t pass. Basically, the app checks in the background to see if your phone i"
+  "file_size_kb": 3748,
+  "num_segments": 12,
+  "has_intro_outro": true,
+  "script": "{\n\"podcast_transcripts\": [\n  {\n    \"speaker_id\": 0,\n    \"dialog\": \"Hey everyone, welcome back to the show! Today we're diving into something that sounds like a sci-fi plot twist but is actually happening right now. So, I bought a car, right? I paid good money for it. But apparently, whether I can actually 'use' it properly depends entirely on what phone I have and what software runs on it. Have you seen this news about Volkswagen?\"\n  },\n  {\n    \"speaker_id\": 1,\n    \"dialog\": \"Oh, yeah. It’s pretty wild. Basically, if you use certain privacy-focused, open-source Android operating systems like GrapheneOS, the VW app just refuses to let you log in. You get this little red bar saying, 'Device does not meet security requirements.' So, you own the car, but the digital key to unlock it and check your battery is locked behind a gate that says, 'Sorry, we don't trust your phone.'\"\n  },\n  {\n    \"speaker_id\": 0,\n    \"dialog\": \"That is so frustrating! And it’s not even because GrapheneOS is some s"
 }
