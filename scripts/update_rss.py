@@ -20,6 +20,9 @@ def extract_description(script_raw):
         return ""
 
 def generate_rss():
+    if not os.path.exists(EPISODES_DIR):
+        os.makedirs(EPISODES_DIR, exist_ok=True)
+
     episodes = []
     for f in os.listdir(EPISODES_DIR):
         if f.startswith("episode_") and f.endswith(".json"):
