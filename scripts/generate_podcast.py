@@ -195,7 +195,7 @@ def has_intro_outro():
 
 
 def add_intro_outro(input_mp3, output_mp3):
-    """Add intro/outro music with fade in/out"""
+    """Add intro (fade in) and outro (no fade out) to podcast audio"""
     template_dir = os.path.join(os.path.dirname(__file__), "..", "templates")
     intro = os.path.join(template_dir, "intro.mp3")
     outro = os.path.join(template_dir, "outro.mp3")
@@ -204,35 +204,28 @@ def add_intro_outro(input_mp3, output_mp3):
         shutil.copy2(input_mp3, output_mp3)
         return
 
+    # Build concat list: intro + content + outro
     concat_file = output_mp3 + ".concat.txt"
     with open(concat_file, "w") as f:
         f.write(f"file '{os.path.abspath(intro)}'\n")
         f.write(f"file '{os.path.abspath(input_mp3)}'\n")
         f.write(f"file '{os.path.abspath(outro)}'\n")
 
+    # Simple concat then apply fade-in to intro only (outro has natural ending)
     result = subprocess.run([
         "ffmpeg", "-y",
         "-f", "concat", "-safe", "0", "-i", concat_file,
-        "-filter_complex",
-        "[0]afade=t=in:st=0:d=1[intro];[1]apad=whole_dur=1[content];[2]afade=t=out:st=0:d=1[outro];[intro][content][outro]concat=n=3:v=0:a=1[out]",
-        "-map", "[out]",
+        "-af", "afade=t=in:st=0:d=1",
         "-codec:a", "libmp3lame", "-b:a", "128k",
         output_mp3
     ], capture_output=True, text=True)
 
-    if result.returncode != 0:
-        result = subprocess.run([
-            "ffmpeg", "-y",
-            "-f", "concat", "-safe", "0", "-i", concat_file,
-            "-codec:a", "libmp3lame", "-b:a", "128k",
-            output_mp3
-        ], capture_output=True, text=True)
-
     os.remove(concat_file)
     if result.returncode == 0:
-        print("Added intro/outro music to final output")
+        print("Added intro (fade in) and outro (no fade out) to final audio")
     else:
-        print(f"Intro/outro merge note: {result.stderr[:100]}")
+        shutil.copy2(input_mp3, output_mp3)
+        print(f"Intro/outro merge failed, using content only: {result.stderr[:100]}")
 
 
 def make_episode_id(article_date, link, title):
