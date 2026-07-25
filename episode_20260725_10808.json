@@ -1,0 +1,11 @@
+{
+  "id": "20260725_10808",
+  "title": "把 Hermes Agent 揣兜里：这款 U 盘 AI 助手让你随时随地”调教”AI",
+  "link": "https://osp.io/archives/10808",
+  "date": "2026-07-25T00:05:48",
+  "audio_file": "episode_20260725_10808.mp3",
+  "file_size_kb": 3557,
+  "num_segments": 14,
+  "has_intro_outro": true,
+  "script": "{\n\"podcast_transcripts\": [\n  {\n    \"speaker_id\": 0,\n    \"dialog\": \"Hey everyone, welcome back! So, I have a confession to make. Last week, I was working from a coffee shop, and I tried to run some local AI tools on my laptop. Only problem? My Python environment was completely borked. I stared at that blank terminal for twenty minutes feeling like a total newbie.\"\n  },\n  {\n    \"speaker_id\": 1,\n    \"dialog\": \"Oh man, don't even get me started. That is the absolute worst. It’s one thing to be stuck without code, but it’s another when you’re worried about privacy. Like, what if you’re using a public computer or a client’s machine? You log in, do your work, and then... boom, your API keys and chat history are left sitting there like an open book. It’s a nightmare.\"\n  },\n  {\n    \"speaker_id\": 0,\n    \"dialog\": \"Exactly! It’s like leaving your diary on the bus. But guess what? I found this cool open-source project that basically solves both of those headaches. It’s called Hermes-USB-Portable. "
+}
