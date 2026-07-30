@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[GLM-5.2 在长程强化学习里悄悄放弃了 GRPO，这事没那么简单]]></title>
+      <link>https://osp.io/archives/10894</link>
+      <description><![CDATA[GLM-5.2 在长程强化学习里悄悄放弃了 GRPO，这事没那么简单]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20260730_10894.mp3" type="audio/mpeg" length="4825088"/>
+      <pubDate>Thu, 30 Jul 2026 00:24:39 GMT</pubDate>
+      <guid isPermaLink="false">20260730_10894</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[Debian 要不要把’禁止 LLM 贡献’写进 Social Contract？四个提案背后的开源治理之战]]></title>
       <link>https://osp.io/archives/10878</link>
       <description><![CDATA[Debian 要不要把’禁止 LLM 贡献’写进 Social Contract？四个提案背后的开源治理之战]]></description>
