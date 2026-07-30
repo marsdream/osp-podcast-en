@@ -1,0 +1,11 @@
+{
+  "id": "20260730_10894",
+  "title": "GLM-5.2 在长程强化学习里悄悄放弃了 GRPO，这事没那么简单",
+  "link": "https://osp.io/archives/10894",
+  "date": "2026-07-30T00:24:39",
+  "audio_file": "episode_20260730_10894.mp3",
+  "file_size_kb": 4712,
+  "num_segments": 12,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back to the show! Today we're diving into something really hot in the AI world—GLM-5.2's latest update. So they just announced that they're not using GRPO anymore for their long-range reinforcement learning stage. Wait, what? GRPO has been basically the default method for training reasoning models in the open-source community. It's like the go-to tool everyone's been using.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Yeah, exactly! GRPO, or Group Relative Policy Optimization, was popularized by DeepSeek with their DeepSeekMath paper and then validated on DeepSeek-R1. It quickly became a standard across many projects—from Qwen to Mistral and beyond. Everyone was jumping on the bandwagon because it seemed so efficient. But GLM-5.2 decided to take a different path?\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Right, so why did they make such a bold move? Let me start by expl"
+}
