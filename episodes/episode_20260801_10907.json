@@ -1,0 +1,11 @@
+{
+  "id": "20260801_10907",
+  "title": "终于有人把旅行规划器做成了「开源版 Notion」",
+  "link": "https://osp.io/archives/10907",
+  "date": "2026-08-01T00:10:39",
+  "audio_file": "episode_20260801_10907.mp3",
+  "file_size_kb": 3802,
+  "num_segments": 15,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back! So today I want to talk about something we've all been there — you know, that moment when you're trying to plan a trip with friends and it just becomes this absolute nightmare?\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Oh man, don't even get me started. Seven people in a WeChat group, twenty versions of a spreadsheet, voting polls that never line up... and then you book the flights and realize nobody's booked the hotel. Classic.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Right?! I literally had someone digging through three months of chat history the night before departure just to find out what time we're meeting. It's exhausting. But I recently found this tool called TREK and honestly it's been a game changer for me.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"TREK? Yeah, I've heard about that. It's a self-hosted travel planning tool, right? Think of "
+}
