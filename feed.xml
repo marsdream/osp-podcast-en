@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[终于有人把旅行规划器做成了「开源版 Notion」]]></title>
+      <link>https://osp.io/archives/10907</link>
+      <description><![CDATA[终于有人把旅行规划器做成了「开源版 Notion」]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20260801_10907.mp3" type="audio/mpeg" length="3893248"/>
+      <pubDate>Sat, 01 Aug 2026 00:10:39 GMT</pubDate>
+      <guid isPermaLink="false">20260801_10907</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[GLM-5.2 在长程强化学习里悄悄放弃了 GRPO，这事没那么简单]]></title>
       <link>https://osp.io/archives/10894</link>
       <description><![CDATA[GLM-5.2 在长程强化学习里悄悄放弃了 GRPO，这事没那么简单]]></description>
