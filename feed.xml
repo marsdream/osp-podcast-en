@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[微软拿 DeepSeek 喂 Copilot：一场 57 倍价差逼出来的开源转向]]></title>
+      <link>https://osp.io/archives/10796</link>
+      <description><![CDATA[微软拿 DeepSeek 喂 Copilot：一场 57 倍价差逼出来的开源转向]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20260804_10796.mp3" type="audio/mpeg" length="5551104"/>
+      <pubDate>Tue, 04 Aug 2026 04:47:31 GMT</pubDate>
+      <guid isPermaLink="false">20260804_10796</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[终于有人把旅行规划器做成了「开源版 Notion」]]></title>
       <link>https://osp.io/archives/10907</link>
       <description><![CDATA[终于有人把旅行规划器做成了「开源版 Notion」]]></description>

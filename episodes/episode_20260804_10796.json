@@ -1,0 +1,11 @@
+{
+  "id": "20260804_10796",
+  "title": "微软拿 DeepSeek 喂 Copilot：一场 57 倍价差逼出来的开源转向",
+  "link": "https://osp.io/archives/10796",
+  "date": "2026-08-04T04:47:31",
+  "audio_file": "episode_20260804_10796.mp3",
+  "file_size_kb": 5421,
+  "num_segments": 13,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back to the show! Today we've got a juicy one — Microsoft is reportedly feeding Copilot with Chinese open-source models, specifically DeepSeek. And honestly, when I first saw this news, my reaction was just like... another one? They've been juggling models from OpenAI, Mistral, Phi, Orca — it's like they're running a full mahjong table at this point.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Right? But this time is different, and it all comes down to one thing — the numbers don't lie. DeepSeek V4 Pro is charging $0.435 per million input tokens and $0.87 for output. Compare that to Anthropic's latest flagship at $50 per million tokens for output alone. That's a 57x difference. Do the math on a company spending a million dollars a month on Copilot — suddenly they're looking at like seventeen thousand instead. That's a whole lot of engineer bonuses right there.\"\n    },\n    {\n      "
+}
