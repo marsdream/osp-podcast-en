@@ -1,0 +1,11 @@
+{
+  "id": "20260805_10798",
+  "title": "Ubuntu 26.10 的「Myna」：把语音转文字第一次做成桌面一等公民",
+  "link": "https://osp.io/archives/10798",
+  "date": "2026-08-05T00:41:38",
+  "audio_file": "episode_20260805_10798.mp3",
+  "file_size_kb": 4482,
+  "num_segments": 16,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back! So I have to tell you — I was just sitting there, trying to write this long email, and I thought, man, wouldn't it be nice if my computer could just type for me while I talk? You know how macOS has Voice Control and Windows has Speech Recognition? But what about Linux desktop users? Honestly, it's always been kind of a mess.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Right, exactly. You either spend hours piecing together Vosk and Whisper in the terminal, or you just give up entirely. Well, Ubuntu 26.10 is trying to change that with something called Myna. And the name is actually pretty clever — it's named after the myna bird, which is famous for mimicking human speech.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Oh, I love that! So what is Myna, exactly? Is it like a voice assistant? Like, can I ask it to do things on my desktop?\"\n    },\n    {\n      \"speaker_id\":"
+}

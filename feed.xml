@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[Ubuntu 26.10 的「Myna」：把语音转文字第一次做成桌面一等公民]]></title>
+      <link>https://osp.io/archives/10798</link>
+      <description><![CDATA[Ubuntu 26.10 的「Myna」：把语音转文字第一次做成桌面一等公民]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20260805_10798.mp3" type="audio/mpeg" length="4589568"/>
+      <pubDate>Wed, 05 Aug 2026 00:41:38 GMT</pubDate>
+      <guid isPermaLink="false">20260805_10798</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[微软拿 DeepSeek 喂 Copilot：一场 57 倍价差逼出来的开源转向]]></title>
       <link>https://osp.io/archives/10796</link>
       <description><![CDATA[微软拿 DeepSeek 喂 Copilot：一场 57 倍价差逼出来的开源转向]]></description>
