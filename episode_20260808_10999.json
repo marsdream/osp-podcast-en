@@ -1,0 +1,11 @@
+{
+  "id": "20260808_10999",
+  "title": "给你的 AI 编码 Agent 养只像素宠物：Petdex 体验",
+  "link": "https://osp.io/archives/10999",
+  "date": "2026-08-08T00:03:06",
+  "audio_file": "episode_20260808_10999.mp3",
+  "file_size_kb": 2400,
+  "num_segments": 11,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back! You know, I was scrolling through GitHub the other day and stumbled onto something that completely caught me off guard. I mean, we've all heard of AI coding assistants, right? But have you ever thought about giving them a pet?\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"A pet? Like, a digital companion for your code? That sounds... oddly specific, but also kind of brilliant. What is it?\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"It's called Petdex. Honestly, the first time I saw it, I thought, 'Is this like a Pokémon Pokédex for Codex?' And yeah, it is, basically. It's this pixel-art pet gallery that lives right in your CLI.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Oh, I've heard of this. So, you install it via npm, and it puts this little pixel creature on your screen? What's the tech stack behind something like this? I mean, it has to be lightweight"
+}
