@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[Google 把『AI Agent 流水线』开源了 —— 一行命令，让你手头的 coding agent 变成 Google Cloud AI agent 专家]]></title>
+      <link>https://osp.io/archives/10793</link>
+      <description><![CDATA[Google 把『AI Agent 流水线』开源了 —— 一行命令，让你手头的 coding agent 变成 Google Cloud AI agent 专家]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20260810_10793.mp3" type="audio/mpeg" length="2828288"/>
+      <pubDate>Mon, 10 Aug 2026 10:00:04 GMT</pubDate>
+      <guid isPermaLink="false">20260810_10793</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[给你的 AI 编码 Agent 养只像素宠物：Petdex 体验]]></title>
       <link>https://osp.io/archives/10999</link>
       <description><![CDATA[给你的 AI 编码 Agent 养只像素宠物：Petdex 体验]]></description>

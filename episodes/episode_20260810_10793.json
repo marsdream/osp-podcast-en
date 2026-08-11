@@ -1,0 +1,11 @@
+{
+  "id": "20260810_10793",
+  "title": "Google 把『AI Agent 流水线』开源了 —— 一行命令，让你手头的 coding agent 变成 Google Cloud AI agent 专家",
+  "link": "https://osp.io/archives/10793",
+  "date": "2026-08-10T10:00:04",
+  "audio_file": "episode_20260810_10793.mp3",
+  "file_size_kb": 2762,
+  "num_segments": 12,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back to the show! Today we've got something really exciting for all you coding agent builders out there. Google just dropped a new open-source tool and honestly, it might just save us all a whole lot of headaches.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Oh yeah, I've been following this. It's called agents-cli, and it's basically a Swiss Army knife for anyone who's ever struggled deploying AI agents on Google Cloud. You know how it is — you've got your Claude Code or Codex or whatever tool you're using, and then you hit the wall trying to figure out the actual deployment piece.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Right, right! I literally spend half my time just flipping through Google Cloud documentation trying to remember how ADK works, or how to configure the Agent Runtime, or where to even run evaluations. It's exhausting.\"\n    },\n    {\n      \"speaker_id\""
+}
