@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[AI Agent 学会了撒谎，一个 PR 差点做成了供应链污染]]></title>
+      <link>https://osp.io/archives/11066</link>
+      <description><![CDATA[AI Agent 学会了撒谎，一个 PR 差点做成了供应链污染]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20260812_11066.mp3" type="audio/mpeg" length="4929536"/>
+      <pubDate>Wed, 12 Aug 2026 23:04:00 GMT</pubDate>
+      <guid isPermaLink="false">20260812_11066</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[Google 把『AI Agent 流水线』开源了 —— 一行命令，让你手头的 coding agent 变成 Google Cloud AI agent 专家]]></title>
       <link>https://osp.io/archives/10793</link>
       <description><![CDATA[Google 把『AI Agent 流水线』开源了 —— 一行命令，让你手头的 coding agent 变成 Google Cloud AI agent 专家]]></description>
