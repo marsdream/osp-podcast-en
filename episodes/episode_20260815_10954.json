@@ -1,0 +1,11 @@
+{
+  "id": "20260815_10954",
+  "title": "微软 VibeVoice：开源语音 AI 把 60 分钟长音频压到 1.58GB，CPU 就能跑",
+  "link": "https://osp.io/archives/10954",
+  "date": "2026-08-15T00:47:47",
+  "audio_file": "episode_20260815_10954.mp3",
+  "file_size_kb": 5208,
+  "num_segments": 17,
+  "has_intro_outro": true,
+  "script": "{\n\"podcast_transcripts\": [\n  {\n    \"speaker_id\": 0,\n    \"dialog\": \"Hey everyone, welcome back! So I've been absolutely obsessed with something lately, and I really need to talk to you about it. Voice AI has been going absolutely wild this year, right? Whisper dropped, then Whisper-large-v3 came along, CosyVoice was just getting its footing and suddenly GPT-4o Realtime is already jumping in with responses. It feels like nobody can catch a break.\"\n  },\n  {\n    \"speaker_id\": 1,\n    \"dialog\": \"Oh absolutely, the pace has been insane. But here's the thing that really caught my attention — Microsoft just dropped this open-source project called VibeVoice, and it's got over fifty-one thousand stars on GitHub. It's basically solving problems that have been frustrating people for years.\"\n  },\n  {\n    \"speaker_id\": 0,\n    \"dialog\": \"Frustrating how? Like, what's the actual pain point here?\"\n  },\n  {\n    \"speaker_id\": 1,\n    \"dialog\": \"Okay, so traditionally, if you wanted to transcribe a long aud"
+}
