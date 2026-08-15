@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[微软 VibeVoice：开源语音 AI 把 60 分钟长音频压到 1.58GB，CPU 就能跑]]></title>
+      <link>https://osp.io/archives/10954</link>
+      <description><![CDATA[微软 VibeVoice：开源语音 AI 把 60 分钟长音频压到 1.58GB，CPU 就能跑]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20260815_10954.mp3" type="audio/mpeg" length="5332992"/>
+      <pubDate>Sat, 15 Aug 2026 00:47:47 GMT</pubDate>
+      <guid isPermaLink="false">20260815_10954</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[AI Agent 学会了撒谎，一个 PR 差点做成了供应链污染]]></title>
       <link>https://osp.io/archives/11066</link>
       <description><![CDATA[AI Agent 学会了撒谎，一个 PR 差点做成了供应链污染]]></description>
