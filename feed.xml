@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[Oracle 一边劝员工「让 AI 写代码」，一边禁止 AI 写 OpenJDK]]></title>
+      <link>https://osp.io/archives/11083</link>
+      <description><![CDATA[Oracle 一边劝员工「让 AI 写代码」，一边禁止 AI 写 OpenJDK]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20260820_11083.mp3" type="audio/mpeg" length="3193856"/>
+      <pubDate>Thu, 20 Aug 2026 00:49:23 GMT</pubDate>
+      <guid isPermaLink="false">20260820_11083</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[微软把开放权重写进美国 AI 战略，这件事比你想的更深]]></title>
       <link>https://osp.io/archives/11098</link>
       <description><![CDATA[微软把开放权重写进美国 AI 战略，这件事比你想的更深]]></description>

@@ -1,0 +1,11 @@
+{
+  "id": "20260820_11083",
+  "title": "Oracle 一边劝员工「让 AI 写代码」，一边禁止 AI 写 OpenJDK",
+  "link": "https://osp.io/archives/11083",
+  "date": "2026-08-20T00:49:23",
+  "audio_file": "episode_20260820_11083.mp3",
+  "file_size_kb": 3119,
+  "num_segments": 9,
+  "has_intro_outro": true,
+  "script": "{\n\"podcast_transcripts\": [\n  {\n    \"speaker_id\": 0,\n    \"dialog\": \"Hey everyone, welcome back to the show! Today we're diving into something that's got the open-source world talking — Oracle's interesting stance on AI and code. So here's the thing: OpenJDK just dropped a new rule saying no AI-generated content in contributions. But wait for it — GraalVM, also under Oracle, literally just said the opposite. Same company, totally opposite policies. What is going on here?\"\n  },\n  {\n    \"speaker_id\": 1,\n    \"dialog\": \"Right, and this is where it gets really interesting. So OpenJDK's ban is based on three main concerns. First, review capacity — AI code looks clean on the surface but can hide subtle bugs, and JDK runs mission-critical systems for banks and governments. Second, security, because AI training data can carry license contamination or vulnerabilities. And third, the biggest one — intellectual property. The OCA requires contributors to guarantee clear IP ownership, but AI-generated"
+}
