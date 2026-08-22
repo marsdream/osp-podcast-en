@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[VLC 33 秒放不出 MP3，不是开源拉胯，是微软 Defender 误杀]]></title>
+      <link>https://osp.io/archives/11134</link>
+      <description><![CDATA[VLC 33 秒放不出 MP3，不是开源拉胯，是微软 Defender 误杀]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20260821_11134.mp3" type="audio/mpeg" length="3375104"/>
+      <pubDate>Fri, 21 Aug 2026 01:18:17 GMT</pubDate>
+      <guid isPermaLink="false">20260821_11134</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[Oracle 一边劝员工「让 AI 写代码」，一边禁止 AI 写 OpenJDK]]></title>
       <link>https://osp.io/archives/11083</link>
       <description><![CDATA[Oracle 一边劝员工「让 AI 写代码」，一边禁止 AI 写 OpenJDK]]></description>
