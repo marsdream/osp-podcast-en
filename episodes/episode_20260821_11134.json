@@ -1,0 +1,11 @@
+{
+  "id": "20260821_11134",
+  "title": "VLC 33 秒放不出 MP3，不是开源拉胯，是微软 Defender 误杀",
+  "link": "https://osp.io/archives/11134",
+  "date": "2026-08-21T01:18:17",
+  "audio_file": "episode_20260821_11134.mp3",
+  "file_size_kb": 3296,
+  "num_segments": 13,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back! So I have to tell you, something wild happened in the tech world recently that really got me thinking about how we talk about open source software. Game developer Jonathan Blow — you know, the guy behind Braid and The Witness — posted this rant on X, and it's been causing quite a stir.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Oh yeah, I saw that. He said he switched back to the built-in Windows Media Player and it takes 33 seconds just to play an MP3 file. And he basically blamed it on open source software being in a pretty embarrassing state overall.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Thirty-three seconds! That is absolutely ridiculous. But here's the thing — and this is where it gets really interesting — the real culprit wasn't open source at all. It was actually Windows Defender itself.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Exactly. S"
+}
