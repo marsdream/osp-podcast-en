@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[Qwen 成了开源模型的「默认底座」：Hugging Face 夏季报告的三个关键信号]]></title>
+      <link>https://osp.io/archives/11139</link>
+      <description><![CDATA[Qwen 成了开源模型的「默认底座」：Hugging Face 夏季报告的三个关键信号]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20260823_11139.mp3" type="audio/mpeg" length="1168384"/>
+      <pubDate>Sun, 23 Aug 2026 03:39:17 GMT</pubDate>
+      <guid isPermaLink="false">20260823_11139</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[VLC 33 秒放不出 MP3，不是开源拉胯，是微软 Defender 误杀]]></title>
       <link>https://osp.io/archives/11134</link>
       <description><![CDATA[VLC 33 秒放不出 MP3，不是开源拉胯，是微软 Defender 误杀]]></description>
