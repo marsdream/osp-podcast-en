@@ -1,0 +1,11 @@
+{
+  "id": "20260823_11139",
+  "title": "Qwen 成了开源模型的「默认底座」：Hugging Face 夏季报告的三个关键信号",
+  "link": "https://osp.io/archives/11139",
+  "date": "2026-08-23T03:39:17",
+  "audio_file": "episode_20260823_11139.mp3",
+  "file_size_kb": 1141,
+  "num_segments": 19,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back to the show! Today we've got something really juicy to dig into. Hugging Face just dropped their mid-year report — the State of Open Models for Summer 2026 — and honestly, it's painting a pretty dramatic picture of where the open-source AI ecosystem stands right now.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Yeah, I spent some time going through it, and there are three major shifts that really stand out. The first one is about geography. You know, for a long time, the narrative was that the US was leading open-source model development. But this report shows something different — China's monthly ceiling for open model releases has been consistently higher throughout 2026, with models ranging from 754 billion all the way up to 2.78 trillion parameters. Meanwhile, most US labs haven't broken past 130 billion in five out of seven months.\"\n    },\n    {\n      \"speaker_id\": 0,\n   "
+}
