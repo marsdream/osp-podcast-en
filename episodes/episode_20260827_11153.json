@@ -1,0 +1,11 @@
+{
+  "id": "20260827_11153",
+  "title": "Tencent/AI-Infra-Guard — 腾讯开源的全栈 AI 红队平台",
+  "link": "https://osp.io/archives/11153",
+  "date": "2026-08-27T09:53:37",
+  "audio_file": "episode_20260827_11153.mp3",
+  "file_size_kb": 5750,
+  "num_segments": 15,
+  "has_intro_outro": true,
+  "script": "{\n\"podcast_transcripts\": [\n  {\n    \"speaker_id\": 0,\n    \"dialog\": \"Hey everyone, welcome back! So today we've got a super interesting topic — AI security, and honestly, it's been on my mind a lot lately. You know, the faster AI is advancing, the more it feels like we're deploying all these systems into the dark, right? Like, you set up an MCP Server, you install some Skill, you pull model weights onto your own server — every layer saves you time, but every layer is also an attack surface.\"\n  },\n  {\n    \"speaker_id\": 1,\n    \"dialog\": \"Exactly. And who's actually scanning all those attack surfaces? For a long time, it was kind of a mess — you'd have to piece together Garak from NVIDIA, PyRIT from Microsoft, maybe Agentic Security, and hope they all play nice together. But Tencent's Zhuque Lab recently released something called A.I.G — that's AI-Infra-Guard — and it's basically a full-stack AI red team platform. It's open source under Apache-2.0, already has over five thousand stars on Gi"
+}
