@@ -1,0 +1,11 @@
+{
+  "id": "20260829_11197",
+  "title": "Google 停推 Pixel 内核源码 tag，GrapheneOS 公开指控：这是「故意制造的 GPL 摩擦」",
+  "link": "https://osp.io/archives/11197",
+  "date": "2026-08-29T00:49:14",
+  "audio_file": "episode_20260829_11197.mp3",
+  "file_size_kb": 4964,
+  "num_segments": 17,
+  "has_intro_outro": true,
+  "script": "{\n\"podcast_transcripts\": [\n  {\n    \"speaker_id\": 0,\n    \"dialog\": \"Hey everyone, welcome back! So I have to tell you, this story has been absolutely burning up Hacker News for days now, and honestly, it's got everyone talking. Google quietly changed something about their Android open source repo, and the fallout is huge.\"\n  },\n  {\n    \"speaker_id\": 1,\n    \"dialog\": \"Yeah, so here's the deal. Google basically stopped pushing Git tags for some AOSP repositories, specifically the kernel and userspace drivers for Pixel devices. On the surface it sounds like a tiny administrative change, but GrapheneOS called it exactly what it is — deliberate friction. They're intentionally making it painful to keep doing what they're doing.\"\n  },\n  {\n    \"speaker_id\": 0,\n    \"dialog\": \"Deliberate friction — that's such a loaded phrase. What does that actually look like for people building custom ROMs? Like, what changes day-to-day?\"\n  },\n  {\n    \"speaker_id\": 1,\n    \"dialog\": \"Well, so previously, OEMs co"
+}
