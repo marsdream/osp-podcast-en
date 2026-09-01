@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[Apache 基金会亲手孵化了一个 Agent：本地优先、把每一次工具调用都写成日志]]></title>
+      <link>https://osp.io/archives/11194</link>
+      <description><![CDATA[Apache 基金会亲手孵化了一个 Agent：本地优先、把每一次工具调用都写成日志]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20260831_11194.mp3" type="audio/mpeg" length="4925440"/>
+      <pubDate>Mon, 31 Aug 2026 08:36:51 GMT</pubDate>
+      <guid isPermaLink="false">20260831_11194</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[Google 停推 Pixel 内核源码 tag，GrapheneOS 公开指控：这是「故意制造的 GPL 摩擦」]]></title>
       <link>https://osp.io/archives/11197</link>
       <description><![CDATA[Google 停推 Pixel 内核源码 tag，GrapheneOS 公开指控：这是「故意制造的 GPL 摩擦」]]></description>
