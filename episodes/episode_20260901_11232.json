@@ -1,0 +1,11 @@
+{
+  "id": "20260901_11232",
+  "title": "Debian 投票决定「既不背书、也不禁止」生成式 AI——8 提案对决背后的开源治理难题",
+  "link": "https://osp.io/archives/11232",
+  "date": "2026-09-01T08:20:24",
+  "audio_file": "episode_20260901_11232.mp3",
+  "file_size_kb": 5033,
+  "num_segments": 18,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back to the show! Today we're diving into something that's been making waves in the open source world — Debian's recent vote on whether AI-generated content can be used for contributions. And honestly, the outcome is pretty fascinating.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Yeah, it really is. So for anyone who's been following this, on August 28th, Debian closed their vote_002, which was a General Resolution about whether LLMs could be used for Debian contributions. And get this — there were eight different proposals plus a none-of-the-above option. That's a lot of choices!\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Eight proposals! I mean, that's intense. So walk me through what was actually on the table. Because from what I understand, the spectrum ranged from pretty strict to pretty open.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Exactly. You had s"
+}
