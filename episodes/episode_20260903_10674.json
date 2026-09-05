@@ -1,0 +1,11 @@
+{
+  "id": "20260903_10674",
+  "title": "Meta 开源的内部设计系统Astryx，1.3万应用验证",
+  "link": "https://osp.io/archives/10674",
+  "date": "2026-09-03T23:19:10",
+  "audio_file": "episode_20260903_10674.mp3",
+  "file_size_kb": 6080,
+  "num_segments": 23,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back to the show! Today we're diving into something that's been a real pain point for a lot of developers out there. You know how it goes — you install this design system, everything looks great at first, but then you want to change, like, literally anything, and suddenly you're forking entire repositories just to tweak a button color. Right?\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Oh, absolutely. I've been there. You add Tailwind to your project and suddenly it's fighting with the design system's built-in CSS, and you just give up. Honestly, that's pretty much the status quo for most design systems — they're closed, rigid, and basically impossible to customize without a lot of pain.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Exactly! But here's the thing — Meta has been quietly building something different on the inside for eight years. And they just open-sourced i"
+}

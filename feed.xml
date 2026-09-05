@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[Meta 开源的内部设计系统Astryx，1.3万应用验证]]></title>
+      <link>https://osp.io/archives/10674</link>
+      <description><![CDATA[Meta 开源的内部设计系统Astryx，1.3万应用验证]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20260903_10674.mp3" type="audio/mpeg" length="6225920"/>
+      <pubDate>Thu, 03 Sep 2026 23:19:10 GMT</pubDate>
+      <guid isPermaLink="false">20260903_10674</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[Debian 投票决定「既不背书、也不禁止」生成式 AI——8 提案对决背后的开源治理难题]]></title>
       <link>https://osp.io/archives/11232</link>
       <description><![CDATA[Debian 投票决定「既不背书、也不禁止」生成式 AI——8 提案对决背后的开源治理难题]]></description>
