@@ -1,0 +1,11 @@
+{
+  "id": "20260908_11264",
+  "title": "Microduck：399美元的开源机器鸭，把强化学习从实验室搬上桌面",
+  "link": "https://osp.io/archives/11264",
+  "date": "2026-09-08T00:33:18",
+  "audio_file": "episode_20260908_11264.mp3",
+  "file_size_kb": 5198,
+  "num_segments": 18,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back to the show! Today we've got something that honestly blew my mind. Hugging Face just dropped a robot duck. Like, a literal duck. And it sold a million dollars in six hours. Can you believe that?\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Yeah, I know, right? It's called the Microduck. Twenty-five centimeters tall, costs three ninety-nine dollars, and apparently it can walk, slide, pick things up, get back up when you push it over, and it even quacks in its own voice. The thing about it though is the software architecture behind it is genuinely impressive.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Wait, the software is the real story here? I mean, it's a duck. A little rubber duck thing. What could possibly be that complex?\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Okay, so hear me out. The whole firmware is written in Rust, no frameworks, just a singl"
+}
