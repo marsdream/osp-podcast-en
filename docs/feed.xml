@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[Microduck：399美元的开源机器鸭，把强化学习从实验室搬上桌面]]></title>
+      <link>https://osp.io/archives/11264</link>
+      <description><![CDATA[Microduck：399美元的开源机器鸭，把强化学习从实验室搬上桌面]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20260908_11264.mp3" type="audio/mpeg" length="5322752"/>
+      <pubDate>Tue, 08 Sep 2026 00:33:18 GMT</pubDate>
+      <guid isPermaLink="false">20260908_11264</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[Meta 开源的内部设计系统Astryx，1.3万应用验证]]></title>
       <link>https://osp.io/archives/10674</link>
       <description><![CDATA[Meta 开源的内部设计系统Astryx，1.3万应用验证]]></description>
