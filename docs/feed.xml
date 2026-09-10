@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[Linux 内核每版本近 2000 个 CVE，AI 漏洞猎人把维护者压垮了]]></title>
+      <link>https://osp.io/archives/11302</link>
+      <description><![CDATA[Linux 内核每版本近 2000 个 CVE，AI 漏洞猎人把维护者压垮了]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20260910_11302.mp3" type="audio/mpeg" length="5199872"/>
+      <pubDate>Thu, 10 Sep 2026 04:13:35 GMT</pubDate>
+      <guid isPermaLink="false">20260910_11302</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[Microduck：399美元的开源机器鸭，把强化学习从实验室搬上桌面]]></title>
       <link>https://osp.io/archives/11264</link>
       <description><![CDATA[Microduck：399美元的开源机器鸭，把强化学习从实验室搬上桌面]]></description>
