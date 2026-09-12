@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[wigolo：把 18 个搜索引擎塞进一个本地 MCP，AI 编程 Agent 的免费「查资料搭子」]]></title>
+      <link>https://osp.io/archives/11265</link>
+      <description><![CDATA[wigolo：把 18 个搜索引擎塞进一个本地 MCP，AI 编程 Agent 的免费「查资料搭子」]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20260910_11265.mp3" type="audio/mpeg" length="5000192"/>
+      <pubDate>Thu, 10 Sep 2026 23:26:20 GMT</pubDate>
+      <guid isPermaLink="false">20260910_11265</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[Linux 内核每版本近 2000 个 CVE，AI 漏洞猎人把维护者压垮了]]></title>
       <link>https://osp.io/archives/11302</link>
       <description><![CDATA[Linux 内核每版本近 2000 个 CVE，AI 漏洞猎人把维护者压垮了]]></description>
