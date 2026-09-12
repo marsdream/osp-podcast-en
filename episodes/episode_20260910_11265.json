@@ -1,0 +1,11 @@
+{
+  "id": "20260910_11265",
+  "title": "wigolo：把 18 个搜索引擎塞进一个本地 MCP，AI 编程 Agent 的免费「查资料搭子」",
+  "link": "https://osp.io/archives/11265",
+  "date": "2026-09-10T23:26:20",
+  "audio_file": "episode_20260910_11265.mp3",
+  "file_size_kb": 4883,
+  "num_segments": 17,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back! So today we're talking about something that, honestly, drives a lot of us crazy if you've been using AI coding agents like Claude Code or Cursor. You know that moment when you ask the agent to look up the latest API docs, and it just… makes stuff up? Like, gives you a totally fabricated answer that sounds totally plausible?\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Oh, absolutely. It's the classic hallucination problem, right? And the reason is pretty straightforward — those agents either have no real web search built in, or what they do have is super limited. You know, rate-limited, or requires some paid API key that you don't want to burn through. So they just wing it.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Right, and that's exactly why I got so excited about this project called wigolo. It's this local MCP server that basically solves this problem once and"
+}
