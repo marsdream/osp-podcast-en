@@ -1,0 +1,11 @@
+{
+  "id": "20260914_11304",
+  "title": "开源派点评：XCorp 一纸律师函没能杀死 Nitter，替代前端的猫鼠游戏",
+  "link": "https://osp.io/archives/11304",
+  "date": "2026-09-14T22:39:43",
+  "audio_file": "episode_20260914_11304.mp3",
+  "file_size_kb": 4960,
+  "num_segments": 18,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back to the show! Today we've got a really wild story about open source, big tech, and one developer who basically stared down a legal threat and said, absolutely not. Stick around, this one's a good one.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Oh, this is great. So the short version is — X Corp, formerly Twitter, sent a cease-and-desist letter to Nitter, this open-source project that let you browse Twitter without an account, without JavaScript, without tracking. Pretty much the anti-Twitter experience. And they gave the developer, this guy called zedeus, 48 hours to shut it all down.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Forty-eight hours? That is not a lot of time to respond to a legal threat from one of the biggest companies in the world. What did they actually demand?\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"They wanted all Nitter instances pe"
+}
