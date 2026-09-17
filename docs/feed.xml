@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[Google Artemis 抄了 mobile-use，删了作者名字，然后补了一行 NOTICE]]></title>
+      <link>https://osp.io/archives/11354</link>
+      <description><![CDATA[Google Artemis 抄了 mobile-use，删了作者名字，然后补了一行 NOTICE]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20260916_11354.mp3" type="audio/mpeg" length="5477376"/>
+      <pubDate>Wed, 16 Sep 2026 23:20:45 GMT</pubDate>
+      <guid isPermaLink="false">20260916_11354</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[开源派点评：XCorp 一纸律师函没能杀死 Nitter，替代前端的猫鼠游戏]]></title>
       <link>https://osp.io/archives/11304</link>
       <description><![CDATA[开源派点评：XCorp 一纸律师函没能杀死 Nitter，替代前端的猫鼠游戏]]></description>
