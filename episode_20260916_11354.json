@@ -1,0 +1,11 @@
+{
+  "id": "20260916_11354",
+  "title": "Google Artemis 抄了 mobile-use，删了作者名字，然后补了一行 NOTICE",
+  "link": "https://osp.io/archives/11354",
+  "date": "2026-09-16T23:20:45",
+  "audio_file": "episode_20260916_11354.mp3",
+  "file_size_kb": 5349,
+  "num_segments": 21,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back to the show! Today we're diving into something that honestly had me stunned. A small French AI team publicly called out Google for copying their open-source work. I mean, this one's got everything, right? The David versus Goliath energy, the GitHub drama, the whole shebang.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Yeah, this one's wild. So the team is called Minitap, and they've been working on something called mobile-use, which is basically an AI agent that can operate your phone. They open-sourced it back in February under the Apache 2.0 license. Then in September, Google dropped their own project called Artemis, and it looked almost identical.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Wait, almost identical? Like they were on the same wavelength or like, copy-paste identical?\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Copy-paste identical. And I m"
+}
