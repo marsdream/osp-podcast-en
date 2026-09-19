@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[微软把 Rust 升到和 C++、C# 平起平坐了]]></title>
+      <link>https://osp.io/archives/11364</link>
+      <description><![CDATA[微软把 Rust 升到和 C++、C# 平起平坐了]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20260918_11364.mp3" type="audio/mpeg" length="3569664"/>
+      <pubDate>Fri, 18 Sep 2026 23:31:33 GMT</pubDate>
+      <guid isPermaLink="false">20260918_11364</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[Google Artemis 抄了 mobile-use，删了作者名字，然后补了一行 NOTICE]]></title>
       <link>https://osp.io/archives/11354</link>
       <description><![CDATA[Google Artemis 抄了 mobile-use，删了作者名字，然后补了一行 NOTICE]]></description>

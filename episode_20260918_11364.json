@@ -1,0 +1,11 @@
+{
+  "id": "20260918_11364",
+  "title": "微软把 Rust 升到和 C++、C# 平起平坐了",
+  "link": "https://osp.io/archives/11364",
+  "date": "2026-09-18T23:31:33",
+  "audio_file": "episode_20260918_11364.mp3",
+  "file_size_kb": 3486,
+  "num_segments": 11,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back! Okay, so I have to tell you something that honestly made me do a double-take. Remember how people always joke about Microsoft eventually adopting Rust? Well, as of September 10th at RustConf 2026, that joke is officially over. Rust is now a Tier-1 language at Microsoft, right alongside C++, C#, and TypeScript.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Right, and this isn't just some PR stunt either. What Tier-1 means internally is huge. We're talking top-tier toolchain support, best-in-class IDE integration, priority compilation optimizations — basically the full treatment. Victor Ciura, who's a Principal Engineer on Microsoft's Rust toolchain team, said it perfectly on stage: Rust is no longer their experiment. It's a first-class citizen now.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"And I think the reason behind this is what really drives the point home. Did "
+}
