@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[Valve 低调开源 Lepton：把 Android 容器装进 Steam Frame]]></title>
+      <link>https://osp.io/archives/11390</link>
+      <description><![CDATA[Valve 低调开源 Lepton：把 Android 容器装进 Steam Frame]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20260922_11390.mp3" type="audio/mpeg" length="5137408"/>
+      <pubDate>Tue, 22 Sep 2026 00:01:58 GMT</pubDate>
+      <guid isPermaLink="false">20260922_11390</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[微软把 Rust 升到和 C++、C# 平起平坐了]]></title>
       <link>https://osp.io/archives/11364</link>
       <description><![CDATA[微软把 Rust 升到和 C++、C# 平起平坐了]]></description>

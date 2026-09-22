@@ -1,0 +1,11 @@
+{
+  "id": "20260922_11390",
+  "title": "Valve 低调开源 Lepton：把 Android 容器装进 Steam Frame",
+  "link": "https://osp.io/archives/11390",
+  "date": "2026-09-22T00:01:58",
+  "audio_file": "episode_20260922_11390.mp3",
+  "file_size_kb": 5017,
+  "num_segments": 22,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back! So I have to tell you something wild that happened recently with Valve. They quietly open-sourced this new tool called Lepton, and honestly, it's kind of a big deal for VR gaming.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Yeah, I caught that. What's interesting is that Valve didn't even make a formal announcement. The first commit went up on September 11th, and then it just appeared on their GitLab. No press release, no blog post — just there. Pretty classic Valve move, honestly.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Right, right! And for anyone who doesn't know, Lepton is basically a compatibility layer that lets you run Android-exclusive VR games on Steam Frame. But here's the thing — it's not an emulator. It's a container.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Exactly. That's an important distinction. So Lepton runs Android inside a Linux"
+}
