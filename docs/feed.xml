@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[阿里把内部 AI 代码审查工具 open-code-review 甩出来了——为什么这次值得看]]></title>
+      <link>https://osp.io/archives/11363</link>
+      <description><![CDATA[阿里把内部 AI 代码审查工具 open-code-review 甩出来了——为什么这次值得看]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20260924_11363.mp3" type="audio/mpeg" length="5779456"/>
+      <pubDate>Thu, 24 Sep 2026 00:24:26 GMT</pubDate>
+      <guid isPermaLink="false">20260924_11363</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[Valve 低调开源 Lepton：把 Android 容器装进 Steam Frame]]></title>
       <link>https://osp.io/archives/11390</link>
       <description><![CDATA[Valve 低调开源 Lepton：把 Android 容器装进 Steam Frame]]></description>
