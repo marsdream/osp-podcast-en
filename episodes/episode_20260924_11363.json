@@ -1,0 +1,11 @@
+{
+  "id": "20260924_11363",
+  "title": "阿里把内部 AI 代码审查工具 open-code-review 甩出来了——为什么这次值得看",
+  "link": "https://osp.io/archives/11363",
+  "date": "2026-09-24T00:24:26",
+  "audio_file": "episode_20260924_11363.mp3",
+  "file_size_kb": 5644,
+  "num_segments": 22,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back! So I have to tell you about something that just dropped and honestly, it's been making waves. Alibaba put their internal AI code review tool on GitHub, and it's already got nearly twenty-eight thousand stars.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Yeah, I've been following this one. The project's called OpenCodeReview, written in Go, Apache-2.0 license. But what really caught my attention isn't just the star count — it's that this thing actually ran at Alibaba's scale for two years. We're talking millions of pull requests across thousands of engineers.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Right, and that's the key difference here. Everyone's been experimenting with AI for code review using tools like Claude Code or Cursor, but there are some real pain points, aren't there?\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Oh absolutely. Three big on"
+}
