@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[Googlebook 上位：Android 桌面化终局，还是 ChromeOS 的替身？]]></title>
+      <link>https://osp.io/archives/11423</link>
+      <description><![CDATA[Googlebook 上位：Android 桌面化终局，还是 ChromeOS 的替身？]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20260925_11423.mp3" type="audio/mpeg" length="4514816"/>
+      <pubDate>Fri, 25 Sep 2026 22:03:33 GMT</pubDate>
+      <guid isPermaLink="false">20260925_11423</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[阿里把内部 AI 代码审查工具 open-code-review 甩出来了——为什么这次值得看]]></title>
       <link>https://osp.io/archives/11363</link>
       <description><![CDATA[阿里把内部 AI 代码审查工具 open-code-review 甩出来了——为什么这次值得看]]></description>
