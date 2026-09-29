@@ -1,0 +1,11 @@
+{
+  "id": "20260928_11435",
+  "title": "F-Droid 2.0：十年磨一剑的开源应用商店",
+  "link": "https://osp.io/archives/11435",
+  "date": "2026-09-28T23:23:01",
+  "audio_file": "episode_20260928_11435.mp3",
+  "file_size_kb": 3171,
+  "num_segments": 13,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back to the show! Today we're diving into something that's been a quiet hero for Android privacy enthusiasts. F-Droid just dropped version 2.0, and they're calling it the biggest update in ten years. Can you believe that?\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Right? Ten years without a major overhaul, and when they finally do it, they go all in. This isn't just a skin refresh — they completely rewrote the entire client in Kotlin Compose. That's a serious engineering commitment.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Yeah, and I love that they kept the same core philosophy. You know, no tracking, no engagement metrics, no shady data collection. It just looks way more modern now. The navigation is this three-part layout — Discover, Search, My Apps. It actually feels like a proper app store now.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"The search fea"
+}
