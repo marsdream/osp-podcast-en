@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[荷兰政府用 NixOS 重建数字主权：被微软切断 ICC 邮箱后，DAWO 项目正式上岗]]></title>
+      <link>https://osp.io/archives/11462</link>
+      <description><![CDATA[荷兰政府用 NixOS 重建数字主权：被微软切断 ICC 邮箱后，DAWO 项目正式上岗]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20260929_11462.mp3" type="audio/mpeg" length="5422080"/>
+      <pubDate>Tue, 29 Sep 2026 14:38:38 GMT</pubDate>
+      <guid isPermaLink="false">20260929_11462</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[F-Droid 2.0：十年磨一剑的开源应用商店]]></title>
       <link>https://osp.io/archives/11435</link>
       <description><![CDATA[F-Droid 2.0：十年磨一剑的开源应用商店]]></description>
