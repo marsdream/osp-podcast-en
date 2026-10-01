@@ -1,0 +1,11 @@
+{
+  "id": "20260929_11462",
+  "title": "荷兰政府用 NixOS 重建数字主权：被微软切断 ICC 邮箱后，DAWO 项目正式上岗",
+  "link": "https://osp.io/archives/11462",
+  "date": "2026-09-29T14:38:38",
+  "audio_file": "episode_20260929_11462.mp3",
+  "file_size_kb": 5295,
+  "num_segments": 21,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back! So today we've got a really wild story out of the Netherlands, and honestly, it's got everything — geopolitics, tech sovereignty, and a whole lot of drama with Microsoft. Stick around.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Oh, this is a good one. So the Dutch government has basically said, you know what? We're done relying on Windows and Office. They're building an entirely new digital infrastructure from the ground up, and it's running on NixOS, which is this Linux distribution from Delft University of Technology.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Right, and here's the thing — it's not just about swapping out the operating system. This is a full-stack replacement. They're talking OS, office suite, collaboration tools, cloud storage, IT management — the whole nine yards.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Exactly. And the trigger "
+}
