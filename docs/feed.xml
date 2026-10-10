@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[Google 把内部 Agent 运行时开源了，这次没加「不官方」免责声明]]></title>
+      <link>https://osp.io/archives/13895</link>
+      <description><![CDATA[Google 把内部 Agent 运行时开源了，这次没加「不官方」免责声明]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20261009_13895.mp3" type="audio/mpeg" length="5563392"/>
+      <pubDate>Fri, 09 Oct 2026 23:33:15 GMT</pubDate>
+      <guid isPermaLink="false">20261009_13895</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[荷兰政府用 NixOS 重建数字主权：被微软切断 ICC 邮箱后，DAWO 项目正式上岗]]></title>
       <link>https://osp.io/archives/11462</link>
       <description><![CDATA[荷兰政府用 NixOS 重建数字主权：被微软切断 ICC 邮箱后，DAWO 项目正式上岗]]></description>
