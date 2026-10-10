@@ -1,0 +1,11 @@
+{
+  "id": "20261009_13895",
+  "title": "Google 把内部 Agent 运行时开源了，这次没加「不官方」免责声明",
+  "link": "https://osp.io/archives/13895",
+  "date": "2026-10-09T23:33:15",
+  "audio_file": "episode_20261009_13895.mp3",
+  "file_size_kb": 5433,
+  "num_segments": 15,
+  "has_intro_outro": true,
+  "script": "{\n\"podcast_transcripts\": [\n  {\n    \"speaker_id\": 0,\n    \"dialog\": \"Hey everyone, welcome back! So I have to tell you something wild that happened on GitHub recently. A repo popped up on the trending page with literally nine words in its description — Google's open agentic orchestration runtime. Nine words. And within a day, it had two thousand three hundred stars. Ten days later, it broke ten thousand.\"\n  },\n  {\n    \"speaker_id\": 1,\n    \"dialog\": \"Right, and here's the thing — in a sea of AI agent projects, what made this one actually explode? It's google slash AX, sitting under Google's official GitHub organization, Apache 2.0 license, and get this — no disclaimer. You know the classic line, 'This is not an officially supported Google product'? Completely absent. Just that alone made the community sit up and pay attention.\"\n  },\n  {\n    \"speaker_id\": 0,\n    \"dialog\": \"Okay, so break it down for me. What exactly is AX? Because I know a lot of people are hearing 'Google agent thing' and"
+}
