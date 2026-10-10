@@ -51,7 +51,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
-          LLM_MODEL: agnes-2.0-flash
+          LLM_MODEL: agnes-2.5-flash
           FISH_API_KEY: ${{ secrets.FISH_API_KEY }}
         run: |
           python scripts/generate_podcast.py --auto \
