@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[AirCard——给 iOS 18 钱包和锁屏换皮的 macOS 神器]]></title>
+      <link>https://osp.io/archives/11422</link>
+      <description><![CDATA[AirCard——给 iOS 18 钱包和锁屏换皮的 macOS 神器]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20261013_11422.mp3" type="audio/mpeg" length="5581824"/>
+      <pubDate>Tue, 13 Oct 2026 00:41:36 GMT</pubDate>
+      <guid isPermaLink="false">20261013_11422</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[Google 把内部 Agent 运行时开源了，这次没加「不官方」免责声明]]></title>
       <link>https://osp.io/archives/13895</link>
       <description><![CDATA[Google 把内部 Agent 运行时开源了，这次没加「不官方」免责声明]]></description>
