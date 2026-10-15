@@ -1,0 +1,11 @@
+{
+  "id": "20261015_13946",
+  "title": "Deno 团队并入 Cloudflare，一年后停止 runtime 开发——开发者该怎么办",
+  "link": "https://osp.io/archives/13946",
+  "date": "2026-10-15T03:46:19",
+  "audio_file": "episode_20261015_13946.mp3",
+  "file_size_kb": 5298,
+  "num_segments": 21,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back to the show! Today we've got something really exciting to talk about. Ryan Dahl, the creator of Node.js himself, just announced that the entire Deno team is joining Cloudflare. I know, right? Big news in the JavaScript world.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Yeah, this is a huge moment honestly. So for those who don't know, Deno was basically Ryan Dahl's attempt to fix all the things he found problematic about Node.js. Built from scratch, TypeScript-first, secure by default, modern web standards. It was like the idealistic younger sibling to Node.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Exactly! And now after years of trying to compete, Deno is being absorbed by Cloudflare. Let me break down what's actually happening here. Deno runtime gets one more year of support, then the community can take over. Deno Deploy shuts down in six months. But their pack"
+}
