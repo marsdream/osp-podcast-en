@@ -1,0 +1,11 @@
+{
+  "id": "20261016_13890",
+  "title": "Higress：阿里开源的 AI Gateway，把你的 OpenAPI 5 分钟变成 MCP Server",
+  "link": "https://osp.io/archives/13890",
+  "date": "2026-10-16T23:49:00",
+  "audio_file": "episode_20261016_13890.mp3",
+  "file_size_kb": 5016,
+  "num_segments": 17,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back to the show! Today we're diving into something that might just change how your team builds AI agents. So, here's a question for you — how many OpenAPI interfaces does your company have just sitting idle in Swagger documentation? Honestly, most of them are basically ignored except when frontend engineers need to check parameter names.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Right? It's such a waste. And in the AI era, if an agent wants to call these APIs, someone has to manually build MCP servers, write SDKs, handle authentication — it's a whole project for every single endpoint. But there's this new tool that actually solves this problem in a really elegant way. It's called Higress, and it can turn your existing OpenAPI documentation directly into a remote MCP server with zero code.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Wait, zero code? Like, just feed it "
+}
