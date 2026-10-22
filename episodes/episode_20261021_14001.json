@@ -1,0 +1,11 @@
+{
+  "id": "20261021_14001",
+  "title": "数字主权这回真动到钱包了:荷兰税务局主动叫停 M365 公有云,转回 on-prem + 开源",
+  "link": "https://osp.io/archives/14001",
+  "date": "2026-10-21T23:18:39",
+  "audio_file": "episode_20261021_14001.mp3",
+  "file_size_kb": 4735,
+  "num_segments": 20,
+  "has_intro_outro": true,
+  "script": "{\n\"podcast_transcripts\": [\n  {\n    \"speaker_id\": 0,\n    \"dialog\": \"Hey everyone, welcome back! So I've been following this story about Europe and digital sovereignty, and honestly, the latest move from the Netherlands is just wild. They cancelled their entire Microsoft 365 cloud migration. Can you believe that?\"\n  },\n  {\n    \"speaker_id\": 1,\n    \"dialog\": \"Right? It's huge. So the plan was to move about five thousand employees to Microsoft 365 public cloud by the end of 2026, and they'd already migrated some of them. But they just... stopped. Cancelled the whole thing. And instead of just switching to another SaaS provider, they're actually breaking it apart piece by piece.\"\n  },\n  {\n    \"speaker_id\": 0,\n    \"dialog\": \"Wait, they're拆分ing the whole thing? Like, not just swapping one tool for another?\"\n  },\n  {\n    \"speaker_id\": 1,\n    \"dialog\": \"Exactly. So by 2027 they're moving email and calendar back to on-premise, and then late 2027 into 2028 they're adding European open-source stor"
+}
