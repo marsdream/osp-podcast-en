@@ -1,0 +1,11 @@
+{
+  "id": "20261026_14028",
+  "title": "Linux 内核删掉了 Assisted-by：一场关于「AI 代码要不要自首」的元老会决议",
+  "link": "https://osp.io/archives/14028",
+  "date": "2026-10-26T09:38:49",
+  "audio_file": "episode_20261026_14028.mp3",
+  "file_size_kb": 5142,
+  "num_segments": 15,
+  "has_intro_outro": true,
+  "script": "{\n\"podcast_transcripts\": [\n  {\n    \"speaker_id\": 0,\n    \"dialog\": \"Hey everyone, welcome back to the show! Today we're diving into something that honestly took me by surprise. Back in Prague on October 8th, after the Linux Kernel Maintainers Summit, they dropped a decision that almost nobody saw coming — they're officially scrapping the Assisted-by tag.\"\n  },\n  {\n    \"speaker_id\": 1,\n    \"dialog\": \"Right? And just the next day, Sasha Levin sent out this really minimal patch. Four files, fifty-one lines deleted, one added. The whole section about AI disclosure in the documentation just vanished. Even the checkpatch.pl validation that enforced the label got ripped out. Pretty dramatic cleanup.\"\n  },\n  {\n    \"speaker_id\": 0,\n    \"dialog\": \"Yeah, and you have to rewind about a year to understand why this tag even existed in the first place. It started during the 7.0 cycle back in late 2025, when they introduced this really specific format requirement. Jonathan Corbet wrote about it on LWN "
+}
