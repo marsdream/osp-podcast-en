@@ -1,5 +1,9 @@
 [
   {
+    "title": "Linux 内核删掉了 Assisted-by：一场关于「AI 代码要不要自首」的元老会决议",
+    "link": "https://osp.io/archives/14028"
+  },
+  {
     "title": "Node.js 同日 4 个高危漏洞，Brotli 越界写其实是 Google 的锅",
     "link": "https://osp.io/archives/14031"
   },

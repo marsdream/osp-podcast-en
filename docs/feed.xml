@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[Linux 内核删掉了 Assisted-by：一场关于「AI 代码要不要自首」的元老会决议]]></title>
+      <link>https://osp.io/archives/14028</link>
+      <description><![CDATA[Linux 内核删掉了 Assisted-by：一场关于「AI 代码要不要自首」的元老会决议]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20261026_14028.mp3" type="audio/mpeg" length="5265408"/>
+      <pubDate>Mon, 26 Oct 2026 09:38:49 GMT</pubDate>
+      <guid isPermaLink="false">20261026_14028</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[数字主权这回真动到钱包了:荷兰税务局主动叫停 M365 公有云,转回 on-prem + 开源]]></title>
       <link>https://osp.io/archives/14001</link>
       <description><![CDATA[数字主权这回真动到钱包了:荷兰税务局主动叫停 M365 公有云,转回 on-prem + 开源]]></description>
