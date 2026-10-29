@@ -1,0 +1,11 @@
+{
+  "id": "20261029_14065",
+  "title": "一个月烧掉 1000 万美元 token，OpenClaw 创始人却说「不都有用」",
+  "link": "https://osp.io/archives/14065",
+  "date": "2026-10-29T00:34:37",
+  "audio_file": "episode_20261029_14065.mp3",
+  "file_size_kb": 4338,
+  "num_segments": 15,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back to the show! Today we're diving into something that honestly blew my mind — and no, it's not about the latest iPhone. At Cloudflare Connect 2026 in San Francisco, someone dropped a number that made the entire audience do a double take.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Right, so this is Peter Steinberger — he's now at OpenAI as technical staff, but he's also the founder of OpenClaw, this massive open-source project with like 390,000 stars on GitHub. And he says something like, 'Last month we spent about ten million dollars on tokens.'\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Ten million dollars. On tokens. Just tokens. Let me process that for a second. That's not a typo. That's what a mid-sized company might spend on infrastructure in a year, and he's saying it's what got burned through last month alone.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialo"
+}
