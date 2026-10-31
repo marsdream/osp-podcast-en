@@ -1,0 +1,11 @@
+{
+  "id": "20261030_14067",
+  "title": "Meta「Apache 2.0 三连击」，但被忽略的不只是技术",
+  "link": "https://osp.io/archives/14067",
+  "date": "2026-10-30T00:22:45",
+  "audio_file": "episode_20261030_14067.mp3",
+  "file_size_kb": 3436,
+  "num_segments": 11,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back to the show! Today we're diving into something really exciting from Meta. So, in just two months, they dropped three things that honestly seem unrelated at first glance, but when you put them together, it tells this fascinating story.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Yeah, and I think a lot of people are missing the bigger picture here. On August 10th, they released Muse Glimmer 30B, an Apache 2.0 licensed model that runs on a single 24GB GPU. Same day, Zuckerberg published this 6,500-word manifesto called The Future is for Everyone. Then in October, they dropped the Muse Gadgets SDK to turn ESP32 boards and Raspberry Pis into physical AI agents.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Right, and everyone's like, oh wow, Meta is open sourcing again! But I think the license difference is actually the most important piece. Glimmer is Apache 2.0, which i"
+}
