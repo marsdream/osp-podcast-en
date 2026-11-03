@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[CleanYourTV：近 5 万 Star 的电视去广告神器，作者是帮爸妈修电视的那个周末程序员]]></title>
+      <link>https://osp.io/archives/14093</link>
+      <description><![CDATA[CleanYourTV：近 5 万 Star 的电视去广告神器，作者是帮爸妈修电视的那个周末程序员]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20261103_14093.mp3" type="audio/mpeg" length="3055616"/>
+      <pubDate>Tue, 03 Nov 2026 01:00:00 GMT</pubDate>
+      <guid isPermaLink="false">20261103_14093</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[Meta「Apache 2.0 三连击」，但被忽略的不只是技术]]></title>
       <link>https://osp.io/archives/14067</link>
       <description><![CDATA[Meta「Apache 2.0 三连击」，但被忽略的不只是技术]]></description>

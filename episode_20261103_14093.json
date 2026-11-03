@@ -1,0 +1,11 @@
+{
+  "id": "20261103_14093",
+  "title": "CleanYourTV：近 5 万 Star 的电视去广告神器，作者是帮爸妈修电视的那个周末程序员",
+  "link": "https://osp.io/archives/14093",
+  "date": "2026-11-03T01:00:00",
+  "audio_file": "episode_20261103_14093.mp3",
+  "file_size_kb": 2984,
+  "num_segments": 15,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Okay, so you know how your TV turns on and immediately blasts you with thirty seconds of ads? And those pre-installed apps you just can't get rid of?\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Oh, absolutely. Every Android TV I've ever used comes pre-loaded with junk. My dad's Xiaomi TV is basically a billboard at this point.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Right?! So there's this new project on GitHub called CleanYourTV, and it has literally exploded. Nearly fifty thousand stars in two weeks. It basically strips all that garbage off your TV through Wi-Fi, no root, no cables needed.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Yeah, I checked it out. The creator, Gathin23, started this as a weekend project after fixing up his parents' TV. One line of a README, and it just took off. The whole thing runs through ADB — Android Debug Bridge — which most people don't even kno"
+}
