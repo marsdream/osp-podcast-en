@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[MiniMax M3.1 Flash 开放权重，428B 参数压到 4 位，但许可证不是 Apache]]></title>
+      <link>https://osp.io/archives/14156</link>
+      <description><![CDATA[MiniMax M3.1 Flash 开放权重，428B 参数压到 4 位，但许可证不是 Apache]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20261105_14156.mp3" type="audio/mpeg" length="4356096"/>
+      <pubDate>Thu, 05 Nov 2026 01:00:00 GMT</pubDate>
+      <guid isPermaLink="false">20261105_14156</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[CleanYourTV：近 5 万 Star 的电视去广告神器，作者是帮爸妈修电视的那个周末程序员]]></title>
       <link>https://osp.io/archives/14093</link>
       <description><![CDATA[CleanYourTV：近 5 万 Star 的电视去广告神器，作者是帮爸妈修电视的那个周末程序员]]></description>
