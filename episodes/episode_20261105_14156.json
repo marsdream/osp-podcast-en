@@ -1,0 +1,11 @@
+{
+  "id": "20261105_14156",
+  "title": "MiniMax M3.1 Flash 开放权重，428B 参数压到 4 位，但许可证不是 Apache",
+  "link": "https://osp.io/archives/14156",
+  "date": "2026-11-05T01:00:00",
+  "audio_file": "episode_20261105_14156.mp3",
+  "file_size_kb": 4254,
+  "num_segments": 11,
+  "has_intro_outro": true,
+  "script": "{\n\"podcast_transcripts\": [\n  {\n    \"speaker_id\": 0,\n    \"dialog\": \"Hey everyone, welcome back! Okay, so I've been meaning to talk about this with you — MiniMax just dropped their M3.1 Flash model, and honestly, there's a lot going on here. It's their flagship agent model, right? 428 billion parameters, supports up to a million token context, and it's natively multimodal. What stood out to me first was that the weights are now open on Hugging Face and ModelScope.\"\n  },\n  {\n    \"speaker_id\": 1,\n    \"dialog\": \"Yeah, and that's actually the part that needs the most attention. The numbers are impressive — 428 billion total parameters but only about 23 billion activated per token thanks to the Mixture of Experts architecture. But here's the thing that most people gloss over: the license is not what you'd call a typical open-source license. If you're planning to use this in a commercial product, you really need to read that LICENSE file before you look at any benchmarks.\"\n  },\n  {\n    \"speake"
+}
