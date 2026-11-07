@@ -1,0 +1,11 @@
+{
+  "id": "20261107_14169",
+  "title": "Mautic 把营销自动化的数据墙拆掉一半 开源派能拿走的不只是代码",
+  "link": "https://osp.io/archives/14169",
+  "date": "2026-11-07T01:00:00",
+  "audio_file": "episode_20261107_14169.mp3",
+  "file_size_kb": 5398,
+  "num_segments": 18,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back! So today we're talking about something that keeps popping up in my feeds — Mautic, this open-source marketing automation platform. And honestly, it feels like it's right at this interesting crossroads in the industry. What do you think?\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Oh yeah, absolutely. You know, the whole SaaS marketing automation space has been splitting in two directions lately. On one side, you've got HubSpot and Mailchimp evolving into these massive all-in-one platforms — CRM, customer service, lead management, everything under one roof. But on the other side, there's this independent developer community, especially in Europe, pushing back because they care deeply about privacy. And Mautic sits right in that gap.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Right, and it's got nearly eleven thousand stars on GitHub now, which is pretty impressive "
+}
