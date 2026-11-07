@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[Mautic 把营销自动化的数据墙拆掉一半 开源派能拿走的不只是代码]]></title>
+      <link>https://osp.io/archives/14169</link>
+      <description><![CDATA[Mautic 把营销自动化的数据墙拆掉一半 开源派能拿走的不只是代码]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20261107_14169.mp3" type="audio/mpeg" length="5527552"/>
+      <pubDate>Sat, 07 Nov 2026 01:00:00 GMT</pubDate>
+      <guid isPermaLink="false">20261107_14169</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[MiniMax M3.1 Flash 开放权重，428B 参数压到 4 位，但许可证不是 Apache]]></title>
       <link>https://osp.io/archives/14156</link>
       <description><![CDATA[MiniMax M3.1 Flash 开放权重，428B 参数压到 4 位，但许可证不是 Apache]]></description>
