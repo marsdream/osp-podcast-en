@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[Agent2API 把几十家 AI 客户端塞进一个本地 base_url]]></title>
+      <link>https://osp.io/archives/14192</link>
+      <description><![CDATA[Agent2API 把几十家 AI 客户端塞进一个本地 base_url]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20261110_14192.mp3" type="audio/mpeg" length="6749184"/>
+      <pubDate>Tue, 10 Nov 2026 01:00:00 GMT</pubDate>
+      <guid isPermaLink="false">20261110_14192</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[Mautic 把营销自动化的数据墙拆掉一半 开源派能拿走的不只是代码]]></title>
       <link>https://osp.io/archives/14169</link>
       <description><![CDATA[Mautic 把营销自动化的数据墙拆掉一半 开源派能拿走的不只是代码]]></description>

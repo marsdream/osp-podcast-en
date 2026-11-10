@@ -1,0 +1,11 @@
+{
+  "id": "20261110_14192",
+  "title": "Agent2API 把几十家 AI 客户端塞进一个本地 base_url",
+  "link": "https://osp.io/archives/14192",
+  "date": "2026-11-10T01:00:00",
+  "audio_file": "episode_20261110_14192.mp3",
+  "file_size_kb": 6591,
+  "num_segments": 27,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back to the show! Today we're diving into something I think a lot of you have been asking about — how to squeeze more value out of your existing AI subscriptions. Stick around!\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Yeah, this one's really interesting. So there's this project called Agent2API, and it does something pretty different from what most AI gateways do these days.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Oh really? I feel like every week there's another gateway tool coming out. What makes this one stand out?\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Well, most AI gateways on the market do the same thing — they collect official API keys and redistribute them. But Agent2API takes a completely different approach. It reuses the login sessions from various AI clients like Qoder, ZCode, Doubao Work, and Antigravity. Then it packages those subscript"
+}
