@@ -1,0 +1,11 @@
+{
+  "id": "20261112_14319",
+  "title": "Google 一次捐出三个项目，拼出一套 AI Agent 沙箱栈",
+  "link": "https://osp.io/archives/14319",
+  "date": "2026-11-12T01:00:00",
+  "audio_file": "episode_20261112_14319.mp3",
+  "file_size_kb": 5174,
+  "num_segments": 19,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back! So I have to tell you something really interesting that happened recently with Google Cloud and some major open-source moves. Have you seen the news about them donating three AI agent sandboxing projects to the CNCF?\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Oh yeah, I caught that. November fifth, right? They dropped gVisor, Agent Substrate, and OpenRL — all landing in the CNCF Sandbox track together. But honestly, what really struck me isn't just the donation announcement itself.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"What do you mean? It seems like a big deal, doesn't it? Google giving away their proprietary tech for free?\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"It's bigger than just generosity. The real story is buried in the technical details that most people skim over. You know how gVisor works as a user-space kernel sandbox? Well, Google "
+}
