@@ -1,0 +1,11 @@
+{
+  "id": "20261112_14317",
+  "title": "一本新书讲透 Linux 和维基百科背后那套「同伴生产」",
+  "link": "https://osp.io/archives/14317",
+  "date": "2026-11-12T11:00:00",
+  "audio_file": "episode_20261112_14317.mp3",
+  "file_size_kb": 4218,
+  "num_segments": 15,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back! So today we're talking about something really fascinating — a brand new book from MIT Press called Peer Production. It's all about how Linux and Wikipedia got built by volunteers, people who weren't getting paid, didn't clock in, and had no boss telling them what to do.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Yeah, it's wild when you think about it. The book starts with this story from 1991 — Linus Torvalds, this Finnish grad student, posts on a mailing list saying he wrote an operating system kernel in his spare time, just as a hobby, and anyone can come critique it or help. And thirty-plus years later, that kernel is running on billions of devices. Supercomputers, servers, most smartphones — it's everywhere.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Exactly. And the real question the book tackles is, how did this happen? How do a bunch of unpaid volunteers "
+}
