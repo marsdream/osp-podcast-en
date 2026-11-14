@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[一本新书讲透 Linux 和维基百科背后那套「同伴生产」]]></title>
+      <link>https://osp.io/archives/14317</link>
+      <description><![CDATA[一本新书讲透 Linux 和维基百科背后那套「同伴生产」]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20261112_14317.mp3" type="audio/mpeg" length="4319232"/>
+      <pubDate>Thu, 12 Nov 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="false">20261112_14317</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[Google 一次捐出三个项目，拼出一套 AI Agent 沙箱栈]]></title>
       <link>https://osp.io/archives/14319</link>
       <description><![CDATA[Google 一次捐出三个项目，拼出一套 AI Agent 沙箱栈]]></description>
