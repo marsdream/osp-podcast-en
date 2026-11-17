@@ -1,0 +1,11 @@
+{
+  "id": "20261115_14392",
+  "title": "把联系表单搬回自己的 Cloudflare：Form Worker 这个自托管表单后端",
+  "link": "https://osp.io/archives/14392",
+  "date": "2026-11-15T11:00:00",
+  "audio_file": "episode_20261115_14392.mp3",
+  "file_size_kb": 5099,
+  "num_segments": 22,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back to the show! Today we're diving into something that's going to make a lot of independent developers and static site builders really happy — a self-hosted form backend called Form Worker.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Yeah, this is honestly such a relatable pain point. You know how frustrating it is when you have a beautiful static site on GitHub Pages or Cloudflare Pages, but then you need a contact form? You end up relying on these third-party services like Formspree or Basin, right?\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Totally! And what always bugs me is that every time someone fills out your form, their name, email, company info — all of it goes to some stranger's database. And then what happens if those services raise prices or just shut down? Your client leads disappear overnight.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Exactl"
+}
