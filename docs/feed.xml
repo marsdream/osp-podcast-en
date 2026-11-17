@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[把联系表单搬回自己的 Cloudflare：Form Worker 这个自托管表单后端]]></title>
+      <link>https://osp.io/archives/14392</link>
+      <description><![CDATA[把联系表单搬回自己的 Cloudflare：Form Worker 这个自托管表单后端]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20261115_14392.mp3" type="audio/mpeg" length="5221376"/>
+      <pubDate>Sun, 15 Nov 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="false">20261115_14392</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[一本新书讲透 Linux 和维基百科背后那套「同伴生产」]]></title>
       <link>https://osp.io/archives/14317</link>
       <description><![CDATA[一本新书讲透 Linux 和维基百科背后那套「同伴生产」]]></description>
