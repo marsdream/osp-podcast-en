@@ -1,0 +1,11 @@
+{
+  "id": "20261119_14375",
+  "title": "把 AI 记忆放进自己的 Git 仓库：Mem-Forever 的账本哲学",
+  "link": "https://osp.io/archives/14375",
+  "date": "2026-11-19T01:00:00",
+  "audio_file": "episode_20261119_14375.mp3",
+  "file_size_kb": 4456,
+  "num_segments": 16,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back! So I came across this really interesting project lately called Mem-Forever, and honestly, it got me thinking about something we've all experienced — you spend two hours fine-tuning your AI coding assistant, teaching it your preferences, and then you close the session and everything just... vanishes?\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Oh absolutely, that is such a universal frustration. And here's what makes Mem-Forever clever — instead of storing your memory in some cloud vendor's database where you can't see or control it, it literally keeps everything in your own private Git repository as Markdown files. Your codebase IS your memory layer.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"That sounds beautifully simple, but also kind of revolutionary for the way we think about AI persistence. Walk me through how it actually works under the hood.\"\n    },\n    {\n"
+}
