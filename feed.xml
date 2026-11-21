@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[AWS 开源 Emulator：一份由上千个 AI agent 写出来的云端替身]]></title>
+      <link>https://osp.io/archives/14385</link>
+      <description><![CDATA[AWS 开源 Emulator：一份由上千个 AI agent 写出来的云端替身]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20261121_14385.mp3" type="audio/mpeg" length="4780032"/>
+      <pubDate>Sat, 21 Nov 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">20261121_14385</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[把 AI 记忆放进自己的 Git 仓库：Mem-Forever 的账本哲学]]></title>
       <link>https://osp.io/archives/14375</link>
       <description><![CDATA[把 AI 记忆放进自己的 Git 仓库：Mem-Forever 的账本哲学]]></description>
