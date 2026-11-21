@@ -1,0 +1,11 @@
+{
+  "id": "20261121_14385",
+  "title": "AWS 开源 Emulator：一份由上千个 AI agent 写出来的云端替身",
+  "link": "https://osp.io/archives/14385",
+  "date": "2026-11-21T07:00:00",
+  "audio_file": "episode_20261121_14385.mp3",
+  "file_size_kb": 4668,
+  "num_segments": 21,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back! So I have to tell you, something really wild just came out of AWS and I need to talk about it with someone who actually understands this stuff.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Oh man, let me guess — another AI-generated project? Because that sounds exactly like the kind of thing AWS would ship right now.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"You nailed it. It's called AWS Emulator, and here's the mind-blowing part: literally every single line of code was written by AI agents. No humans wrote it, no humans reviewed it. They just opened the repo in September and by November it already had nearly six thousand stars.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Wait, so this is like a local simulator for the entire AWS API, but zero human involvement? That's either incredibly impressive or incredibly terrifying. Which is it?\"\n    },\n    {\n   "
+}
