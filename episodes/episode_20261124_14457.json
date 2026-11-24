@@ -1,0 +1,11 @@
+{
+  "id": "20261124_14457",
+  "title": "AI 公司开始往开源引擎的赞助名单里挤：Manus 拿下 Godot 白金牌",
+  "link": "https://osp.io/archives/14457",
+  "date": "2026-11-24T07:00:00",
+  "audio_file": "episode_20261124_14457.mp3",
+  "file_size_kb": 4886,
+  "num_segments": 15,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back! So today we've got a really juicy topic to unpack, and honestly, it came across my feed this morning and I immediately had to dive deeper. Godot — you know, that awesome open-source game engine — just announced something on their foundation website. A new Platinum sponsor joined the ranks, and it's not your usual crowd.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Oh yeah, I saw this too. It's Manus — the AI agent company. And that's actually pretty significant because if you look at the whole Platinum tier, there are seven companies, and Manus is the only one that's a general-purpose AI company. Everyone else is either a game studio, a tool vendor, or in Arm's case, a chip manufacturer.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Right? That stands out. But before we go down the rabbit hole, let me just make sure people understand what's happening here. This isn't "
+}

@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[AI 公司开始往开源引擎的赞助名单里挤：Manus 拿下 Godot 白金牌]]></title>
+      <link>https://osp.io/archives/14457</link>
+      <description><![CDATA[AI 公司开始往开源引擎的赞助名单里挤：Manus 拿下 Godot 白金牌]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20261124_14457.mp3" type="audio/mpeg" length="5003264"/>
+      <pubDate>Tue, 24 Nov 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">20261124_14457</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[AWS 开源 Emulator：一份由上千个 AI agent 写出来的云端替身]]></title>
       <link>https://osp.io/archives/14385</link>
       <description><![CDATA[AWS 开源 Emulator：一份由上千个 AI agent 写出来的云端替身]]></description>
