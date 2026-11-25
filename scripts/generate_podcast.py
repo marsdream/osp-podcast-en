@@ -104,28 +104,76 @@ def fish_tts(text, voice_id, output_path):
         return False
 
 
+def _strip_html(html):
+    """ crude HTML -> text """
+    if not html:
+        return ""
+    txt = re.sub(r"<script[^>]*>.*?</script>", " ", html, flags=re.S | re.I)
+    txt = re.sub(r"<style[^>]*>.*?</style>", " ", txt, flags=re.S | re.I)
+    txt = re.sub(r"<[^>]+>", " ", txt)
+    txt = re.sub(r"&nbsp;?", " ", txt)
+    txt = re.sub(r"&amp;?", "&", txt)
+    txt = re.sub(r"&#8217;|&rsquo;", "'", txt)
+    txt = re.sub(r"&#8220;|&#8221;|&ldquo;|&rdquo;", '"', txt)
+    txt = re.sub(r"[ \t]+", " ", txt)
+    txt = re.sub(r"\n\s*\n+", "\n", txt)
+    return txt.strip()
+
+
 def fetch_article_content(url, target_link=None):
-    """Fetch article content from RSS feed"""
+    """Fetch article content.
+
+    Priority: WordPress REST API for the exact post id (works regardless of
+    how deep the post is in the feed pagination), then fall back to the RSS
+    feed. Never silently substitutes a different article.
+    """
+    if target_link:
+        m = re.search(r"/archives/(\d+)", target_link)
+        if m:
+            post_id = m.group(1)
+            rest = f"https://osp.io/wp-json/wp/v2/posts/{post_id}"
+            try:
+                import urllib.request
+                req = urllib.request.Request(rest, headers={"User-Agent": "Mozilla/5.0"})
+                with urllib.request.urlopen(req, timeout=60) as resp:
+                    data = json.loads(resp.read().decode("utf-8"))
+                html = data.get("content", {}).get("rendered", "")
+                title = _strip_html(data.get("title", {}).get("rendered", ""))
+                text = _strip_html(html)
+                if title and text:
+                    published = None
+                    raw_date = data.get("date_gmt") or data.get("date")
+                    if raw_date:
+                        try:
+                            published = datetime.strptime(raw_date, "%Y-%m-%dT%H:%M:%S")
+                        except ValueError:
+                            published = None
+                    print(f"Fetched via REST: {title[:60]}")
+                    return title, text, target_link, published
+            except Exception as e:
+                print(f"REST fetch failed ({e}), falling back to RSS")
+
+        feed = feedparser.parse(url)
+        if feed.entries:
+            for entry in feed.entries:
+                if entry.get("link") == target_link:
+                    content = ""
+                    if hasattr(entry, "content") and entry.content:
+                        content = entry.content[0].value
+                    elif hasattr(entry, "summary"):
+                        content = entry.summary
+                    else:
+                        content = entry.get("description", "")
+                    published = None
+                    if hasattr(entry, "published_parsed") and entry.published_parsed:
+                        published = datetime(*entry.published_parsed[:6])
+                    return entry.title, content, entry.get("link", ""), published
+        print(f"ERROR: target_link not found: {target_link}")
+        return None, None, "", None
+
     feed = feedparser.parse(url)
     if not feed.entries:
         return None, None, "", None
-
-    if target_link:
-        for entry in feed.entries:
-            if entry.get("link") == target_link:
-                content = ""
-                if hasattr(entry, "content") and entry.content:
-                    content = entry.content[0].value
-                elif hasattr(entry, "summary"):
-                    content = entry.summary
-                else:
-                    content = entry.get("description", "")
-                published = None
-                if hasattr(entry, "published_parsed") and entry.published_parsed:
-                    published = datetime(*entry.published_parsed[:6])
-                return entry.title, content, entry.get("link", ""), published
-        print(f"WARNING: target_link not found, falling back to entry[0]")
-
     entry = feed.entries[0]
     content = ""
     if hasattr(entry, "content") and entry.content:
@@ -276,7 +324,7 @@ def main():
         print("ERROR: no article link (need --link or NEW_ARTICLE_LINK or queue in last_article.json)")
         sys.exit(1)
 
-    title, article_content, link, article_date = fetch_article_content("https://osp.io/feed", target_link=target_link)
+    title, article_content, link, article_date = fetch_article_content("https://osp.io/en/feed", target_link=target_link)
     if not title:
         print("ERROR: cannot fetch article content")
         sys.exit(1)
