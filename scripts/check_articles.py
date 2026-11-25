@@ -2,7 +2,7 @@
 """Check for new articles on osp.io and save to queue"""
 import os, json, feedparser
 
-RSS_URL = "https://osp.io/feed"
+RSS_URL = "https://osp.io/en/feed"
 STATE_FILE = "last_article.json"
 
 def get_latest_article():
@@ -35,7 +35,8 @@ if __name__ == "__main__":
     if article["link"] in existing_links:
         print(f"Article already in queue: {article['title']}")
         print("has_new=false")
-        print("::set-output name=has_new::false")
+        with open(os.environ.get("GITHUB_OUTPUT", os.devnull), "a") as f:
+            f.write("has_new=false\n")
         exit(0)
 
     # Prepend new article to queue
@@ -55,4 +56,5 @@ if __name__ == "__main__":
 
     print(f"Queued: {article['title']}")
     print("has_new=true")
-    print("::set-output name=has_new::true")
+    with open(os.environ.get("GITHUB_OUTPUT", os.devnull), "a") as f:
+        f.write("has_new=true\n")
