@@ -1,0 +1,11 @@
+{
+  "id": "20261125_15527",
+  "title": "Agent2API crams dozens of AI clients into a single local base_url",
+  "link": "https://osp.io/en/archives/15527",
+  "date": "2026-11-25T02:53:25",
+  "audio_file": "episode_20261125_15527.mp3",
+  "file_size_kb": 6467,
+  "num_segments": 27,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back! Today we have something really exciting for anyone who's ever struggled with managing multiple AI subscriptions. Have you heard about this project called Agent2API?\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Oh yeah, I've been keeping an eye on this one. It's honestly pretty clever. So most AI gateways on the market work the same way — they just collect official API keys and redistribute them. But Agent2API takes a totally different approach.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Right, tell us more about what makes it different. Is it like… reusing something other than API keys?\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Exactly. It reuses login states from various AI clients — things like Qoder, ZCode, Doubao Work, Antigravity, and so on. It basically packages the subscription quotas that are already included in those clients into a local gatewa"
+}

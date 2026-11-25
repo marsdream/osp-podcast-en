@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[Agent2API crams dozens of AI clients into a single local base_url]]></title>
+      <link>https://osp.io/en/archives/15527</link>
+      <description><![CDATA[Agent2API crams dozens of AI clients into a single local base_url]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20261125_15527.mp3" type="audio/mpeg" length="6622208"/>
+      <pubDate>Wed, 25 Nov 2026 02:53:25 GMT</pubDate>
+      <guid isPermaLink="false">20261125_15527</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[AI 公司开始往开源引擎的赞助名单里挤：Manus 拿下 Godot 白金牌]]></title>
       <link>https://osp.io/archives/14457</link>
       <description><![CDATA[AI 公司开始往开源引擎的赞助名单里挤：Manus 拿下 Godot 白金牌]]></description>
