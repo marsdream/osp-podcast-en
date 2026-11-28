@@ -12,6 +12,15 @@
     <atom:link href="https://podcast-en.herebuy.us/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title><![CDATA[Stuff the macOS kernel into Linux: AFK-surf/xnulinux for six days with 4000 stars]]></title>
+      <link>https://osp.io/en/archives/15570</link>
+      <description><![CDATA[Stuff the macOS kernel into Linux: AFK-surf/xnulinux for six days with 4000 stars]]></description>
+      <enclosure url="https://podcast-en.herebuy.us/episodes/episode_20261127_15570.mp3" type="audio/mpeg" length="4619264"/>
+      <pubDate>Fri, 27 Nov 2026 15:11:50 GMT</pubDate>
+      <guid isPermaLink="false">20261127_15570</guid>
+      <itunes:image href="https://img.osp.io/podcastcover.png"/>
+    </item>
+    <item>
       <title><![CDATA[Agent2API crams dozens of AI clients into a single local base_url]]></title>
       <link>https://osp.io/en/archives/15527</link>
       <description><![CDATA[Agent2API crams dozens of AI clients into a single local base_url]]></description>
