@@ -1,0 +1,11 @@
+{
+  "id": "20261127_15570",
+  "title": "Stuff the macOS kernel into Linux: AFK-surf/xnulinux for six days with 4000 stars",
+  "link": "https://osp.io/en/archives/15570",
+  "date": "2026-11-27T15:11:50",
+  "audio_file": "episode_20261127_15570.mp3",
+  "file_size_kb": 4511,
+  "num_segments": 21,
+  "has_intro_outro": true,
+  "script": "{\n  \"podcast_transcripts\": [\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Hey everyone, welcome back! So today we are talking about something that sounds like it came straight out of science fiction. Someone somehow managed to compile macOS's kernel inside Linux and boot right to the desktop. No hypervisor, no virtual machine. Just… straight up running macOS on Linux hardware.\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Yeah, I know, right? It sounds completely insane when you first hear it. The project is called xnulinux, created just recently in November 2026, and it already racked up over four thousand stars. That tells you how much curiosity there is around it.\"\n    },\n    {\n      \"speaker_id\": 0,\n      \"dialog\": \"Four thousand stars in six days! Okay, so break it down for me — what exactly are they doing here? Because my brain immediately goes to, well, isn't that just virtualization?\"\n    },\n    {\n      \"speaker_id\": 1,\n      \"dialog\": \"Exactly what I thought at first "
+}
